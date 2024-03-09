@@ -105,7 +105,6 @@ python-xlib==0.33
 pythran==0.10.0
 pytz==2023.3.post1
 pyxdg==0.27
-PyYAML==5.4.1
 referencing==0.33.0
 reportlab==3.6.8
 requests==2.25.1
