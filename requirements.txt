@@ -25,12 +25,10 @@ django-cache-url==3.4.5
 django-cors-headers==4.3.1
 djangorestframework==3.14.0
 drf-spectacular==0.27.1
-duplicity==0.8.21
 environs==11.0.0
 evdev==1.6.1
 fasteners==0.14.1
 filelock==3.6.0
-Flask==2.1.0
 fonttools==4.29.1
 fs==2.4.12
 future==0.18.2
