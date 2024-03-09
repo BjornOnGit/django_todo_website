@@ -40,7 +40,6 @@ greenlet==1.1.2
 gunicorn==21.2.0
 html5lib==1.1
 httplib2==0.20.2
-idna==3.3
 importlib-metadata==4.6.4
 inflection==0.5.1
 ipython==7.31.1
@@ -107,7 +106,6 @@ pytz==2023.3.post1
 pyxdg==0.27
 referencing==0.33.0
 reportlab==3.6.8
-requests==2.25.1
 rpds-py==0.18.0
 rsa==4.8
 scapy==2.4.4
